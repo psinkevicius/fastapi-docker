@@ -11,5 +11,3 @@ def labas():
 @app.get("/")
 def home():
     return "Namai"
-
-
